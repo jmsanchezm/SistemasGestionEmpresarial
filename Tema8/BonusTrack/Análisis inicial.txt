@@ -4,27 +4,49 @@ Biblioteca de clases:
 	
 	clsMision()
 		//La usaremos para establecer un objeto para cada una de las misiones de Mando
-		//Esta clase dispondrá de 3 atributos con sus respectivas propiedades (solo get) + constructores
+		//Esta clase dispondrá de 4 atributos con sus respectivas propiedades (solo get) + constructores
+			int id
 			string nombre;
 			string detalles;
 			int recompensa;
 
 Capa UI: 
+
+	DAL:
+			
+		public static class ListadoMisionesDAL -> La usaremos para la creación de un listado falso de misiones. 
+							  En esta clase de creará una lista de objetos de tipo clsMision, y devolverá dicho listado
+			List <clsMision> ListadoMisionesDAL
+
 	View:
 		Index
-			//Select con el listado de cada misión(nombre)
-			//Button "Mas detalles"
-			//Detalles de la misión invisibles
+			//Formulario con select y cada opcion será una misión + Input "Mas detalles"
+			//Detalles de la misión que deben cumplir una condición
 
 	Model: 
-		List <clsMision> ListadoMisiones: Devolverá un listado con los nombres de las misiones 
+		ViewModel: 
+			public class  ListadoMisionConMisionSeleccionada : clsMision -> Clase que usaremos para mostrar todo el listado de las misiones, además de la misión seleccionada
+											Para ello, dicha clase heredará de clsMision y se le creará un listado de clsMision.
+											Además crearemos un contructor vacio, además del constructor con parámetros de entrada.
+											Estos paramatros de entradas serán las propiedades de la clase clsMision.
+											Este último constructor nos servirá para localizar el Id de la misiónm así como sus demás propiedades.
+				List <clsMision> listado = ListadoMisionesDAL.ListadoMisionesCompleto()
+				public ListadoMisionConMisionSeleccionada () -> Constructor vacío
+				public ListadoMisionConMisionSeleccionada (int id, string nombre, string detalles, int recompensa) -> Constructor con parámetros
 
 	Controller:
-		//Action Index 
-			//Devolverá una vista
-		
-		//Action Index (clsMision)
-			//Devolverá la misma vista pero con el objeto de tipo mision donde se le mostrará los demás datos de la misión
-			//Visibilidad en los elementos de la vista
+		 public IActionResult Index() -> Primer action que cargará el listado completo de las misiones en la vista.
+						Para esto se instanciará un objeto de tipo ListadoMisionConMisionSeleccionada para que una vez abierto el select, 
+						pueda elegir la misión a realizar y llevarla al segundo action al pinchar en el input. Dicho listado se le pasará a la vista
+
+			ListadoMisionConMisionSeleccionada listMisConMisSel = new ListadoMisionConMisionSeleccionada();
 			
 		
+		 public IActionResult Index(int Id) -> Este segundo action se encargará de mostrar la misión seleccionada. Para ello, tendrá un parámetro de entrada que será el id de la misión
+							Luego, instanciaremos un objeto de tipo misión al cuál le daremos el Id de la misión.
+							Después de esto, dentro de un nuevo objeto de tipo ListadoMisionConMisionSeleccionada, le daremos los valores del objeto de tipo mision 
+							para pasarlos por el constructor ya creado en el ViewModel.
+							
+							En este action le pasaremos a la vista el objeto de tipo ListadoMisionConMisionSeleccionada para mostrarle los detalles de la mision
+			clsMision misionSeleccionada = ListadoMisionesDAL.ListadoMisionesCompleto().FirstOrDefault(m => m.Id == Id);
+			ListadoMisionConMisionSeleccionada listadoConMisionSeleccionada = new ListadoMisionConMisionSeleccionada (parametros de entrada del objeto creado)

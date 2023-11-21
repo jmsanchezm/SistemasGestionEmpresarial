@@ -15,7 +15,7 @@ namespace BonustrackU8.Controllers
         /// <returns></returns>
         public IActionResult Index()
         {
-            ListadoMisionConMisionSeleccionada listMisConMisSel = new ListadoMisionConMisionSeleccionada();
+            ListadoMisionConMisionSeleccionadaVM listMisConMisSel = new ListadoMisionConMisionSeleccionadaVM();
 
             return View(listMisConMisSel);
         }
@@ -32,7 +32,7 @@ namespace BonustrackU8.Controllers
         {
             clsMision misionSeleccionada = ListadoMisionesDAL.ListadoMisionesCompleto().FirstOrDefault(m => m.Id == Id);
 
-            ListadoMisionConMisionSeleccionada listadoConMisionSeleccionada = new ListadoMisionConMisionSeleccionada
+            ListadoMisionConMisionSeleccionadaVM listadoConMisionSeleccionada = new ListadoMisionConMisionSeleccionadaVM
             (
                 misionSeleccionada.Id,
                 misionSeleccionada.Nombre,
