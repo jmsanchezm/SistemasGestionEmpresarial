@@ -1,8 +1,8 @@
 ﻿using Biblioteca;
 
-namespace BonustrackU8.Models
+namespace BonustrackU8.DAL
 {
-    public static class ListadoMisiones
+    public static class ListadoMisionesDAL
     {
         /// <summary>
         /// Método que devolverá un listado de misiones para Mando
@@ -21,7 +21,7 @@ namespace BonustrackU8.Models
                 new clsMision(4,"Renacuajos", "Debes llevar a una Dama Rana y sus huevos de " +
                             "Tatooine a la luna del estuario Trask, donde su esposo fertilizará los huevos.",500)
             };
-            
+
             return ListadoMisiones;
         }
     }

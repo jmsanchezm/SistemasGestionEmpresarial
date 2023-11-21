@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jmmoreno\\.nuget\\packages\\": {},
+    "C:\\Users\\sanch\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema8\\BonusTrack\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema8\\BonusTrack\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema8\\BonusTrack\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\jmmoreno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema8\\BonusTrack\\Biblioteca\\obj\\",
+      "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema8\\BonusTrack\\Biblioteca\\Biblioteca.csproj",
+      "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema8\\BonusTrack\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jmmoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

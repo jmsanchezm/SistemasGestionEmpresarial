@@ -1,39 +1,43 @@
-﻿@using Biblioteca
-@using BonustrackU8.Models
-@model clsMision
+﻿@model BonustrackU8.Models.ViewModel.ListadoMisionConMisionSeleccionada;
+@using Biblioteca;
+
 @{
     ViewData["Title"] = "Home Page";
 }
 
-
-<select name="Id">
-    @{
-        foreach (clsMision mision in ListadoMisiones.ListadoMisionesCompleto())
-        {
-            @if (Model != null && Model.Id == mision.Id)
+<form asp-controller="Home" asp-action="Index" method="post">
+    <select name="Id">
+        @{
+            if (Model != null && Model.listado != null)
             {
-                <option selected value="@Model.Id">@Model.Nombre</option>
+                foreach (clsMision mision in Model.listado)
+                {
+                    @if (Model != null && Model.Id == mision.Id)
+                    {
+                        <option selected value="@Model.Id">@Model.Nombre</option>
+                    }
+                    else
+                    {
+                        <option value="@mision.Id">@mision.Nombre</option>
+                    }
+                }
             }
-            else
-            {
-                <option value="@mision.Id">@mision.Nombre</option>
-            }
+            
         }
-    }
 
-</select>
+    </select>
 
-<button type="submit" action="Index">Ver detalles</button>
+    <input type="submit" value="Ver detalles" />
 
-
+</form>
 
 
 @{
-    if (Model != null)
+    if (Model != null && Model.Id!=0)
     {
-        <h3>@Model.Nombre</h3>    
-        <h4>@Model.Detalles</h4>
-        <h4>@Model.Recompensa</h4>
+        <h4>@Model.Nombre</h4>    
+        <p>Detalles: @Model.Detalles</p>
+        <p>Recompensa: @Model.Recompensa créditos</p>
     }
 }
 
