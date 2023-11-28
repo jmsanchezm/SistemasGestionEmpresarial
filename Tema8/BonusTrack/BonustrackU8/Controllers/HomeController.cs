@@ -32,8 +32,8 @@ namespace BonustrackU8.Controllers
         {
             clsMision misionSeleccionada = ListadoMisionesDAL.ListadoMisionesCompleto().FirstOrDefault(m => m.Id == Id);
 
-            ListadoMisionConMisionSeleccionadaVM listadoConMisionSeleccionada = new ListadoMisionConMisionSeleccionadaVM
-            (
+            
+            
                 misionSeleccionada.Id,
                 misionSeleccionada.Nombre,
                 misionSeleccionada.Detalles,
