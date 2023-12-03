@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ejercicio.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Ejercicio.bundle.scp.css"
+      "Id": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Capa UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Capa UI.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Ejercicio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Capa UI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Ejercicio.props",
-      "PackagePath": "build\\Ejercicio.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Capa UI.props",
+      "PackagePath": "build\\Capa UI.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ejercicio.props",
-      "PackagePath": "buildMultiTargeting\\Ejercicio.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Capa UI.props",
+      "PackagePath": "buildMultiTargeting\\Capa UI.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ejercicio.props",
-      "PackagePath": "buildTransitive\\Ejercicio.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Capa UI.props",
+      "PackagePath": "buildTransitive\\Capa UI.props"
     }
   ],
   "ElementsToRemove": []

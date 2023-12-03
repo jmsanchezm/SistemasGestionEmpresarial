@@ -3346,6 +3346,20 @@
           "bin/placeholder/Biblioteca.dll": {}
         }
       },
+      "Capa BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Biblioteca": "1.0.0",
+          "DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa BL.dll": {}
+        }
+      },
       "DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -9970,6 +9984,11 @@
       "path": "../Biblioteca/Biblioteca.csproj",
       "msbuildProject": "../Biblioteca/Biblioteca.csproj"
     },
+    "Capa BL/1.0.0": {
+      "type": "project",
+      "path": "../Capa BL/Capa BL.csproj",
+      "msbuildProject": "../Capa BL/Capa BL.csproj"
+    },
     "DAL/1.0.0": {
       "type": "project",
       "path": "../DAL/DAL.csproj",
@@ -9979,7 +9998,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Biblioteca >= 1.0.0",
-      "DAL >= 1.0.0",
+      "Capa BL >= 1.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.11",
       "System.Data.SqlClient >= 4.8.5"
     ]
@@ -9991,9 +10010,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\Ejercicio.csproj",
-      "projectName": "Ejercicio",
-      "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\Ejercicio.csproj",
+      "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\Capa UI.csproj",
+      "projectName": "Capa UI",
+      "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\Capa UI.csproj",
       "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\obj\\",
       "projectStyle": "PackageReference",
@@ -10020,8 +10039,8 @@
             "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Biblioteca\\Biblioteca.csproj": {
               "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Biblioteca\\Biblioteca.csproj"
             },
-            "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\DAL\\DAL.csproj"
+            "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Capa BL\\Capa BL.csproj": {
+              "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Capa BL\\Capa BL.csproj"
             }
           }
         }

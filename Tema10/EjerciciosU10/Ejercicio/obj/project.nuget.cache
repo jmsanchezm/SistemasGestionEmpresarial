@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPXqxojryXD77y5NxP+saxDTM7aFO3RbrneFxuVDIIJP7K/ps2fZwqDPoB/BMuJ8rPHKrmBlEfeIg96HLvc1wA==",
+  "dgSpecHash": "67VKDLxjjFfKVWvoOBG4Qj9X5dh9nKQNrdI3wpoKcjGLEOPpe1+l4+082l+A1XQgL5K7ZWP8r4tbH4eFCVL6eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\Ejercicio.csproj",
+  "projectFilePath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjerciciosU10\\Ejercicio\\Capa UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sanch\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\sanch\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
