@@ -1,0 +1,15 @@
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\bin\Release\net7.0\Capa DAL.deps.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\bin\Release\net7.0\Capa DAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\bin\Release\net7.0\Capa DAL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\bin\Release\net7.0\Capa Entities.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\bin\Release\net7.0\Capa Entities.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\Capa DAL.csproj.AssemblyReference.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\Capa DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\Capa DAL.AssemblyInfoInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\Capa DAL.AssemblyInfo.cs
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\Capa DAL.csproj.CoreCompileInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\Capa DAL.csproj.CopyComplete
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\Capa DAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\refint\Capa DAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\Capa DAL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa DAL\obj\Release\net7.0\ref\Capa DAL.dll

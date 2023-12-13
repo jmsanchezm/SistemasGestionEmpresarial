@@ -1,0 +1,12 @@
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\bin\Release\net7.0\Capa Entities.deps.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\bin\Release\net7.0\Capa Entities.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\bin\Release\net7.0\Capa Entities.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\Capa Entities.csproj.AssemblyReference.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\Capa Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\Capa Entities.AssemblyInfoInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\Capa Entities.AssemblyInfo.cs
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\Capa Entities.csproj.CoreCompileInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\Capa Entities.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\refint\Capa Entities.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\Capa Entities.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa Entities\obj\Release\net7.0\ref\Capa Entities.dll
