@@ -233,3 +233,14 @@ C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\Ejercic
 C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\ref\Capa UI.dll
 C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\bin\Debug\net7.0\Capa BL.dll
 C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\bin\Debug\net7.0\Capa BL.pdb
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.csproj.AssemblyReference.cache
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.AssemblyInfoInputs.cache
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.AssemblyInfo.cs
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.csproj.CoreCompileInputs.cache
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.RazorAssemblyInfo.cache
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.RazorAssemblyInfo.cs
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.dll
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\refint\Capa UI.dll
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Ejercicio\obj\Debug\net7.0\Capa UI.pdb
