@@ -1,3 +1,6 @@
+var nombre = document.getElementById("nombre").value
+var apellido = document.getElementById("apellidos").value
+
 class Persona {
     constructor(nombre, apellido) {
         this.nombre = nombre;
@@ -10,10 +13,9 @@ class Persona {
 }
 
 function saludo() {
-    var nombre =document.getElementById("nombre").value
-    var apellido = document.getElementById("apellidos").value
+    
 
-    Persona = new Persona(nombre, apellido);
+    var pers = new Persona(nombre, apellido);
 
-    alert('Hola ' + Persona.toString());
+    alert('Hola ' + pers.toString());
 }

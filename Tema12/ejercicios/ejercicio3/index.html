@@ -5,7 +5,25 @@
     <title>My Web Page</title>
 </head>
 <body>
-    <h1>Welcome to My Web Page</h1>
-    <p>This is a sample HTML file.</p>
+    <h1>Bienvenido</h1>
+    <p>Elija una marca de coche:</p>
+
+    <select onchange="cargarModelosDeMarca(value)">
+        <option value="0" id="marca">Seleccione una marca</option>
+        <option value="Audi" id="marca">Audi</option>
+        <option value="BMW" id="marca">BMW</option>
+        <option value="Mercedes" id="marca">Mercedes</option>
+        <option value="Seat" id="marca">Seat</option>
+        <option value="Skoda" id="marca">Skoda</option>
+    </select>
+
+    <br>
+    <br>
+
+    <label for="modelo">Modelos:</label>
+    <select id="modelo" onchange="cargarModelosDeMarca()"></select>
+         
+   
+
 </body>
 </html>
