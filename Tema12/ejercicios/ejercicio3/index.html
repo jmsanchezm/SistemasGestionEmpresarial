@@ -8,20 +8,19 @@
     <h1>Bienvenido</h1>
     <p>Elija una marca de coche:</p>
 
-    <select onchange="cargarModelosDeMarca(value)">
-        <option value="0" id="marca">Seleccione una marca</option>
-        <option value="Audi" id="marca">Audi</option>
-        <option value="BMW" id="marca">BMW</option>
-        <option value="Mercedes" id="marca">Mercedes</option>
-        <option value="Seat" id="marca">Seat</option>
-        <option value="Skoda" id="marca">Skoda</option>
-    </select>
+    <select id="marca" onchange="actualizarModelos()">
+        <option value="0">Seleccione una marca:</option>
+        <option value="toyota">Toyota</option>
+        <option value="ford">Ford</option>
+        <option value="chevrolet">Chevrolet</option>
+        <option value="volkswagen">Volkswagen</option>
+      </select>
 
     <br>
     <br>
 
-    <label for="modelo">Modelos:</label>
-    <select id="modelo" onchange="cargarModelosDeMarca()"></select>
+    <label for="modelos">Modelos:</label>
+    <select id="modelos" ></select>
          
    
 

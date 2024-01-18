@@ -14,21 +14,16 @@ class Modelo{
 }
 
 
-const modelos = [
-    new Modelo(1, "Modelo 1", new Marca(1, "Mercedes")),
-    new Modelo(2, "Modelo 2", new Marca(2, "Audi")),
-    new Modelo(3, "Modelo 3", new Marca(1, "Seat")),
-    new Modelo(4, "Modelo 4", new Marca(3, "BMW")),
-    new Modelo(5, "Modelo 5", new Marca(2, "Skoda")),
-];
+const modelos = {
+    toyota: ["Corolla", "Yaris", "Hilux"],
+    ford: ["Fiesta", "Focus", "Ranger"],
+    chevrolet: ["Onix", "Cruze", "S10"],
+    volkswagen: ["Gol", "Polo", "Amarok"]
+}
+   
 
-function cargarModelosDeMarca(marca) {
-    const modelosDeMarca = modelos.filter(modelo => modelo.marca === marca);
-
-    var modelosSelect = document.getElementById("modelo");
-
-
-    return modelosDeMarca;
+function actualizarModelos(){
+    
 }
 
 
