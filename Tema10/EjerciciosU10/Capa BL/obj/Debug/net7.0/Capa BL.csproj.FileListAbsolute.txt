@@ -1,0 +1,34 @@
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Capa BL.deps.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Capa BL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Capa BL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\DAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.csproj.AssemblyReference.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.AssemblyInfoInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.AssemblyInfo.cs
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.csproj.CoreCompileInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.csproj.CopyComplete
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\refint\Capa BL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\ref\Capa BL.dll
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Capa BL.deps.json
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Capa BL.dll
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Capa BL.pdb
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\DAL.dll
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.csproj.AssemblyReference.cache
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.AssemblyInfoInputs.cache
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.AssemblyInfo.cs
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.csproj.CoreCompileInputs.cache
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.csproj.CopyComplete
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.dll
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\refint\Capa BL.dll
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\Capa BL.pdb
+C:\Users\jmmoreno\Desktop\2DAM\SistemasGestionEmpresarial\Tema10\EjerciciosU10\Capa BL\obj\Debug\net7.0\ref\Capa BL.dll

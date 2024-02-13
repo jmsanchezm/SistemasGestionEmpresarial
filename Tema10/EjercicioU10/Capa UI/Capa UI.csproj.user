@@ -8,6 +8,11 @@
     <WebStackScaffolding_IsPartialViewSelected>False</WebStackScaffolding_IsPartialViewSelected>
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
+<<<<<<< HEAD:Tema10/EjercicioU10/Capa UI/Capa UI.csproj.user
     <NameOfLastUsedPublishProfile>C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema10\EjercicioU10\Capa UI\Properties\PublishProfiles\CrudJuanmaSanchez - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+=======
+    <Controller_SelectedScaffolderID>MvcControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
+>>>>>>> 1ab5348d1fca2ccc289dcd673fdbd94b265624e6:Tema10/EjerciciosU10/Ejercicio/Capa UI.csproj.user
   </PropertyGroup>
 </Project>
