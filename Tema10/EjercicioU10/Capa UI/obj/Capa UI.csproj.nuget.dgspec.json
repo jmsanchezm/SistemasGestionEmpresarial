@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\Capa UI.csproj": {}
+    "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\Capa UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj": {
+    "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj",
+        "projectUniqueName": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj",
         "projectName": "Capa BL",
-        "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj",
-        "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\obj\\",
+        "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj",
+        "packagesPath": "C:\\Users\\jmmoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmmoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj": {
-                "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj"
+              "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj": {
+                "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj"
               },
-              "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj": {
-                "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj"
+              "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj": {
+                "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj"
               }
             }
           }
@@ -67,24 +67,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj": {
+    "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj",
+        "projectUniqueName": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj",
         "projectName": "Capa DAL",
-        "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj",
-        "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\obj\\",
+        "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\Capa DAL.csproj",
+        "packagesPath": "C:\\Users\\jmmoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmmoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -100,8 +100,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj": {
-                "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj"
+              "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj": {
+                "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj"
               }
             }
           }
@@ -137,24 +137,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj": {
+    "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj",
+        "projectUniqueName": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj",
         "projectName": "Capa Entities",
-        "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj",
-        "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\obj\\",
+        "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj",
+        "packagesPath": "C:\\Users\\jmmoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmmoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -207,24 +207,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\Capa UI.csproj": {
+    "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\Capa UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\Capa UI.csproj",
+        "projectUniqueName": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\Capa UI.csproj",
         "projectName": "Capa UI",
-        "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\Capa UI.csproj",
-        "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\obj\\",
+        "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\Capa UI.csproj",
+        "packagesPath": "C:\\Users\\jmmoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmmoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -240,11 +240,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj": {
-                "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj"
+              "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj": {
+                "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa BL\\Capa BL.csproj"
               },
-              "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj": {
-                "projectPath": "C:\\Users\\sanch\\OneDrive\\Escritorio\\2DAM\\SistemaGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj"
+              "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj": {
+                "projectPath": "C:\\Users\\jmmoreno\\Desktop\\2DAM\\SistemasGestionEmpresarial\\Tema10\\EjercicioU10\\Capa Entities\\Capa Entities.csproj"
               }
             }
           }
@@ -287,7 +287,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
