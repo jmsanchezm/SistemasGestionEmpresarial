@@ -1,0 +1,16 @@
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\bin\Debug\net7.0\Capa DAL.deps.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\bin\Debug\net7.0\Capa DAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\bin\Debug\net7.0\Capa DAL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\bin\Debug\net7.0\Capa Entidades.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\bin\Debug\net7.0\Capa Entidades.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.csproj.AssemblyReference.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.AssemblyInfoInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.AssemblyInfo.cs
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.csproj.CoreCompileInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.sourcelink.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.csproj.CopyComplete
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\refint\Capa DAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\Capa DAL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa DAL\obj\Debug\net7.0\ref\Capa DAL.dll

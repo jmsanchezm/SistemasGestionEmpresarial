@@ -1,0 +1,16 @@
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\bin\Release\net7.0\CapaDAL.deps.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\bin\Release\net7.0\CapaDAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\bin\Release\net7.0\CapaDAL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\bin\Release\net7.0\CapaEntidades.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\bin\Release\net7.0\CapaEntidades.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.csproj.AssemblyReference.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.AssemblyInfoInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.AssemblyInfo.cs
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.csproj.CoreCompileInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.sourcelink.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.csproj.CopyComplete
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\refint\CapaDAL.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\CapaDAL.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\API_MarcaModelo\CapaDAL\obj\Release\net7.0\ref\CapaDAL.dll

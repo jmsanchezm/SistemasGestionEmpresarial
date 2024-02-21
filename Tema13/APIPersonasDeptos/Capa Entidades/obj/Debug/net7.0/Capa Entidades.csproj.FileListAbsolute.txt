@@ -1,0 +1,12 @@
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\bin\Debug\net7.0\Capa Entidades.deps.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\bin\Debug\net7.0\Capa Entidades.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\bin\Debug\net7.0\Capa Entidades.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\Capa Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\Capa Entidades.AssemblyInfoInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\Capa Entidades.AssemblyInfo.cs
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\Capa Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\Capa Entidades.sourcelink.json
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\Capa Entidades.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\refint\Capa Entidades.dll
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\Capa Entidades.pdb
+C:\Users\sanch\OneDrive\Escritorio\2DAM\SistemaGestionEmpresarial\Tema13\APIPersonasDeptos\Capa Entidades\obj\Debug\net7.0\ref\Capa Entidades.dll
