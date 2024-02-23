@@ -40,8 +40,10 @@ class PersonaDepartamento {
 var listadoPersonas
 var listadoDepartamentos
 
-
-///sumary: Funcion que devuelve un listado de personas
+/**
+ * Funcion que devuelve un listado de personas
+ * @returns Una promesa que se resuelve cuando se obtiene el listado de personas
+ */
 function func_listadoPersonas(){
     return new Promise((resolve, reject) => {
         fetch('https://apipersonasdepto.azurewebsites.net/api/personas')
@@ -52,7 +54,9 @@ function func_listadoPersonas(){
             })
     })
 }
-///sumary: Funcion que devuelve un listado de departamentos
+/**
+ * Funcion que devuelve un listado de departamentos
+ */ 
 function func_listadoDepartamentos(){
     return new Promise((resolve, reject) => {
         fetch('https://apipersonasdepto.azurewebsites.net/api/departamentos')
@@ -64,7 +68,9 @@ function func_listadoDepartamentos(){
     })
 }
 
-///sumary: Funcion que rellena la tabla con los datos de las personas
+/**
+ * Funcion que rellena la tabla con los datos de las personas
+ */
 function RellenarTabla() {
     var tabla = document.getElementById('tablaPersonas')
 
@@ -87,75 +93,90 @@ function RellenarTabla() {
 }
 
 
-
+/**
+ * Funcion que crea un modal para agregar una persona
+ */
 function modalPersona() {
-    //Creo el modal
-    var contenedorModal = document.createElement('div')
-    modal.className = 'contenedor-modal'
+    // Creo el modal
+    var contenedorModal = document.createElement('div');
+    contenedorModal.className = 'contenedor-modal';
 
-    var modal = document.createElement('div')
-    modal.className = 'modal'
+    var modal = document.createElement('div');
+    modal.className = 'modal';
 
-    //Creo el titulo del modal
-    var titulo = document.createElement('h2')
-    titulo.id = 'title'
+    // Creo el título del modal
+    var titulo = document.createElement('h2');
+    titulo.id = 'title';
 
-    //Creo el formulario
-    var form = document.createElement('form')
-    form.id = 'form'
+    // Creo el formulario
+    var form = document.createElement('form');
+    form.id = 'form';
 
-    //Creo los campos del formulario
-    let labelNombres = ['Nombre', 'Apellidos', 'Direccion', 'Telefono', 'Foto']
-    let idNombres = ['nombre', 'apellidos', 'direccion', 'telefono', 'foto']
+    // Creo los campos del formulario
+    let labelNombres = ['Nombre', 'Apellidos', 'Direccion', 'Telefono', 'Foto'];
+    let idNombres = ['nombre', 'apellidos', 'direccion', 'telefono', 'foto'];
 
     for (let i = 0; i < labelNombres.length; i++) {
-        let label = document.createElement('label')
-        label.innerHTML = labelNombres[i]
+        let label = document.createElement('label');
+        label.innerHTML = labelNombres[i];
 
-        let input = document.createElement('input')
-        input.type = 'text'
-        input.id = idNombres[i]
+        let input = document.createElement('input');
+        input.type = 'text';
+        input.id = idNombres[i];
 
-        form.appendChild(label)
-        form.appendChild(input)
+        form.appendChild(label);
+        form.appendChild(input);
     }
 
-    //Creo el campo de departamento, con un select
-    var label = document.createElement('label')
-    label.innerHTML = 'Departamento'
+    // Creo el campo de departamento, con un select
+    var labelDepto = document.createElement('label');
+    labelDepto.innerHTML = 'Departamento';
 
-    var select = document.createElement('select')
-    select.id = 'depto'
+    var select = document.createElement('select');
+    select.id = 'depto';
+
     listadoDepartamentos.forEach(depto => {
-        var option = document.createElement('option')
-        option.value = depto.idDepartamento
-        option.innerHTML = depto.nombre
-    });   
+        var option = document.createElement('option');
+        option.value = depto.idDepartamento;
+        option.innerHTML = depto.nombre;
 
-    form.appendChild(label)
-    form.appendChild(select)
+        select.appendChild(option); // Agregar opción al select
+    });
 
-    //Creo el campo de fecha de nacimiento
-    var label = document.createElement('label')
-    label.innerHTML = 'Fecha de Nacimiento'
-    
-    var input = document.createElement('input')
-    input.type = 'date'
-    input.id = 'fNac'
+    form.appendChild(labelDepto);
+    form.appendChild(select);
 
-    form.appendChild(label)
-    form.appendChild(input)
+    // Creo el campo de fecha de nacimiento
+    var labelFechaNac = document.createElement('label');
+    labelFechaNac.innerHTML = 'Fecha de Nacimiento';
 
-    //Creo el boton de agregar
-    var boton = document.createElement('button')
-    boton.innerHTML = 'Agregar'
-    boton.onclick = AgregarPersona
+    var inputFechaNac = document.createElement('input');
+    inputFechaNac.type = 'date';
+    inputFechaNac.id = 'fNac';
 
-    form.appendChild(boton)
-    
+    form.appendChild(labelFechaNac);
+    form.appendChild(inputFechaNac);
+
+    // Creo el botón de agregar
+    var boton = document.createElement('button');
+    boton.innerHTML = 'Agregar';
+    boton.onclick = AgregarPersona;
+
+    form.appendChild(boton);
+
+    // Agregar el formulario al modal
+    modal.appendChild(form);
+
+    // Agregar el modal al contenedorModal
+    contenedorModal.appendChild(modal);
+
+    // Agregar el contenedorModal al cuerpo del documento
+    document.body.appendChild(contenedorModal);
 }
 
-///sumary: Funcion que agrega una persona a la base de datos
+/**
+ * Funcion que agrega una persona a la base de datos
+ */
 function AgregarPersona() { 
     //Obtengo los datos de la persona de los campos del formulario
     var id = listadoPersonas.length + 1  
