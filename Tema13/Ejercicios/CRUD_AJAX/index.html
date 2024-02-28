@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Web Page</title>
+    <title>Crud de AJAX</title>
 
     <script src="script.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" >
@@ -9,41 +9,74 @@
 
 </head>
 <body>
-    <h1>CRUD de AJAX</h1>
-    
-    <div class="boton-modal">
-        <label for="btn-modal">Insertar persona</label>
+    <h1 class="title">CRUD de AJAX</h1>
+
+    <h1 class="title" id="titulo"></h1>
+
+    <div class="btns-listados">
+    <div class="btn-pers" id="pers" onclick="MostrarPersonas()">
+        <label>Ver listado personas</label>
     </div>
 
-    <input type="checkbox" id="btn-modal">
-    <div class="container-modal">
-        <div class="content-modal">
-            <h2>Insertar Persona</h2>
-            <section class="form-register">
-                <input type="text" id="nombre" placeholder="Nombre">
-                <input type="text" id="apellidos" placeholder="Apellidos">
-                <input type="text" id="direccion" placeholder="Dirección">
-                <input type="tel" id="tlf" placeholder="Teléfono">
-                <input type="date" id="fecha" placeholder="Fecha de Nacimiento">
-                <select id="departamentos"></select>
-                <input type="button" value="Insertar" onclick="insertarPersona()">
-            </section>
-            
+    <div class="btn-dept" id="dept" onclick="MostrarDepartamentos()">
+        <label>Ver listado departamentos</label>
+    </div>
+    </div>
 
 
+    <!--Modal-->
+    <input type="checkbox" id="btn-modal" onclick="cargarDepartamentos()">
+    <div class="modalContainer">
+        <div class="modalContent">
+            <h2 id="title"></h2>
+            <form id="formPersona" class="formPersona">
 
-            <div class="btn-cerrar">
-                <label for="btn-modal">Cerrar</label>
-            </div>
+                <input type="text" class="controls" id="nombre" name="nombre" placeholder="Nombre" required>
+                <input type="text" class="controls" id="apellidos" name="apellidos" placeholder="Apellidos" required>
+                <input type="text" class="controls" id="direccion" name="direccion" placeholder="Direccion" required>
+                <input type="text" class="controls" id="tlf" name="tlf" placeholder="Telefono" required>
+                <input type="text" class="controls" id="foto" name="foto" placeholder="URL de la Foto" required>
+                <input type="date" class="controls" id="fecha" name="fNac" required>
+                <select id="departamentos" class="controls" required></select>
+
+            </form>
+            <div class="contentBtn">
+                <div class="btn-cerrar">
+                    <label for="btn-modal">Cerrar</label>
+                </div>
+
+                <div class="btn-guardar" id="guardar">
+                    <label for="btn-modal">Guardar</label>
+                </div>
+            </div>  
+
         </div>
         <label for="btn-modal" class="cerrar-modal"></label>
     </div>
 
-   
-    <table id="tablaPersonas" align="center" border="1" > </table>
+    <!--Fin Modal-->
 
+    <input type="checkbox" id="btn-modal-depto" >
+    <div class="modalContainerD">
+        <div class="modalContentD">
+            <h2 id="titleM"></h2>
 
-  
+            <input type="text" class="controls" id="departa" placeholder="Nombre" required>
+            
+            <div class="contentBtn">
+                <div class="btn-cerrar">
+                    <label for="btn-modal-depto">Cerrar</label>
+                </div>
+
+                <div class="btn-guardar" id="guardar">
+                    <label for="btn-modal-depto">Guardar</label>
+                </div>
+            </div>  
+
+        </div>
+        <label for="btn-modal-depto" class="cerrar-modal"></label>
+    </div>
+
 
 </body>
 </html>

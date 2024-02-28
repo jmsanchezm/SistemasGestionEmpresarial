@@ -6,15 +6,21 @@
     font-family: 'Open Sans', sans-serif;
 }
 body{
-    background: #efefef;
+    background-color: white;
 }
-/*:::Boton-Modal:::*/
-.boton-modal{
-    padding: 40px;
-    background-color: #fff;
+
+/*:::Header:::*/
+.title{
+    text-align: center;
+    margin: 25px 0;
+    color: #005DBF;
+    font-size: 40px;
+
 }
+/*:::Boton-Insertar:::*/
+
 .boton-modal label{
-    padding: 10px 15px;
+    padding: 10px ;
     background-color: #005DBF;
     color: #fff;
     border-radius: 4px;
@@ -22,15 +28,14 @@ body{
     transition: all 300ms ease;
 }
 .boton-modal label:hover{
-    background-color: #5199E5;
+    background-color: #5681de;
 }
-/*:::Fin Boton-Modal:::*/
 
-/*:::Ventana Modal:::*/
+/*:::Formulario:::*/
 #btn-modal{
     display: none;
 }
-.container-modal{
+.modalContainer{
     width: 100%;
     height: 100vh;
     position: fixed;
@@ -41,52 +46,170 @@ body{
     align-items: center;
     z-index: 100;
 }
-#btn-modal:checked ~ .container-modal{
+
+#btn-modal:checked ~ .modalContainer{
     display: flex;
 }
-.content-modal{
+
+.modalContent{
     width: 100%;
     max-width: 400px;
     padding: 20px;
     background-color: #fff;
     border-radius: 4px;
 }
-.content-modal h2{
+
+.modalContent h2{
     margin-bottom: 15px;
 }
-.content-modal p{
-    padding: 15px 0px;
-    border-top: 1px solid #dbdbdb;
-    border-bottom: 1px solid #dbdbdb;
-}
-.content-modal .btn-cerrar{
-    width: 100%;
-    margin-top: 15px;
+
+.contentBtn{
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    margin-top: 20px;
+
 }
-.content-modal .btn-cerrar label{
-    padding: 7px 10px;
+
+.btn-cerrar label, 
+.btn-guardar label {
+    width: 75px;
+    padding: 10px 15px;
     background-color: #005DBF;
     color: #fff;
     border-radius: 4px;
     cursor: pointer;
     transition: all 300ms ease;
 }
-.content-modal .btn-cerrar label:hover{
-    background-color:#5199E5;
-}
-.cerrar-modal{
-    width:100%;
-    height: 100vh;
-    position: absolute;
-    top:0; left: 0;
-    z-index: -1;
-}
-@media screen and (max-width:800px) {
-    .content-modal{
-        width: 90%;
-    }
-}
-/*:::Fin Ventana Modal:::*/
 
+.btn-guardar label:hover,
+.btn-cerrar label:hover{
+    background-color: #5681de;
+}
+
+
+/*:::Inputs Insertar:::*/
+.controls{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    border: 1px solid #005DBF;
+
+}
+
+/*:::Tabla :::*/
+
+.tablaPersonas{
+    background-color: white;
+    float: center;
+    width: 50%;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 50px auto;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.2);
+
+}
+
+.tablaDepts{
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 50px auto;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.2);
+}
+
+td,th{
+    padding: 10px;
+    font-size: 15px;
+}
+thead{
+    background-color: #005DBF;
+    color: white;
+    border-bottom: solid 2.5px black;
+    font-size: 18px;
+}
+
+tr:nth-child(even){
+    background-color: #ddd;
+}
+
+tr:hover td{
+    background-color: #a0a0a0;
+    color: white;
+    cursor: pointer;
+}
+
+.btn-eliminar{
+    padding: 10px 1px;
+    background-color: #ca0000;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 300ms ease;
+}
+
+.btn-eliminar:hover{
+    background-color: #de4444;
+}
+
+/*:::Fin Tabla:::*/
+
+.btns-listados{
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+}
+
+.btn-pers label , .btn-dept label{
+    padding: 10px;
+    margin: 1px 10px;
+    width: 200px;
+    background-color: #005DBF;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 300ms ease;
+}
+
+.btn-pers label:hover, .btn-dept label:hover{
+    background-color: #5681de;
+}
+
+
+.nombreDept{
+    color: #005DBF;
+    font-size: 20px;
+    text-align: left;
+
+}
+
+#btn-modal-depto{
+    display: none;
+}
+
+#btn-modal-depto:checked ~ .modalContainerD{
+    display: flex;
+}
+
+.modalContainerD{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0; left: 0;
+    background-color: rgba(144, 148, 150, 0.8);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+
+.modalContentD{
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 4px;
+}
